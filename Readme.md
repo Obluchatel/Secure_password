@@ -8,12 +8,12 @@ To run this program, you need to have Python installed on your system. You can d
 
 ## Getting Started
 
-1. Download the `secure_password_generator.py` file.
+1. Download the `main.py` file.
 2. Open a terminal or command prompt.
-3. Navigate to the directory where the `secure_password_generator.py` file is located.
+3. Navigate to the directory where the `main.py` file is located.
 4. Run the program by executing the following command:
    ```
-   python secure_password_generator.py
+   python main.py
    ```
 
 ## Usage
